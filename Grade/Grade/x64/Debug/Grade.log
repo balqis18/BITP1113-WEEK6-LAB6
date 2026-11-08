@@ -1,0 +1,5 @@
+﻿  Average.cpp
+C:\Users\User\Documents\BITP LAB6\Grade\Average.cpp(19,6): error C2086: 'int total': redefinition
+      C:\Users\User\Documents\BITP LAB6\Grade\Average.cpp(14,6):
+      see declaration of 'total'
+  
